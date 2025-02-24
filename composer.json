@@ -1,5 +1,5 @@
 {
-    "name": "pear/net_dns2",
+    "name": "plesk/net_dns2",
     "type": "library",
     "description": "Native PHP DNS Resolver and Updater Library",
     "keywords": [
